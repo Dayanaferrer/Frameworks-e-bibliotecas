@@ -43,7 +43,6 @@ Quando você usa uma linguagem de programação existe uma possibilidade de se u
 
  Todas bibliotecas são externas ao seu projeto, porém, nativas da sua respectiva linguagem. Se for necessário, você também pode importar bibliotecas que não são nativas. Além disso, também é possível criar bibliotecas internas no seu projeto.
 
-
 ### Fontes:
 
 > ---
